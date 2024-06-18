@@ -11,14 +11,17 @@
 
 <div align="center">
   <h2>⚡Skills </h2>
-  <li>LUA Scripting | <img src="https://img.shields.io/badge/Emerald-diamond"/></li> 
+  <li>FiveM | <img src="https://img.shields.io/badge/Master-orange"/></li> 
+  <li>RedM | <img src="https://img.shields.io/badge/Master-orange"/></li>
+  <li>LUA | <img src="https://img.shields.io/badge/Master-orange"/></li> 
+  <li>HTML | <img src="https://img.shields.io/badge/Emerald-diamond"/></li> 
+  <li>CSS | <img src="https://img.shields.io/badge/Emerald-diamond"/> </li>
   <li>VB.Net | <img src="https://img.shields.io/badge/Gold-yellow"/></li> 
   <li>MySQL | <img src="https://img.shields.io/badge/Gold-yellow"/></li>
-  <li>HTML - CSS - Javascript | Currently Learning | <img src="https://img.shields.io/badge/Gold-yellow"/> </li>
-  <li>Some C# Knowledges | <img src="https://img.shields.io/badge/Silver-silver"/></li> 
+  <li>C# | <img src="https://img.shields.io/badge/Bronze-brown"/></li> 
+  <hr>
   <li>Open Mind | <img src="https://img.shields.io/badge/Master-orange"/></li>
-  <br>
-  <br>
+  <hr>
   <img src="https://img.shields.io/badge/Windows_Master-orange"/>
   <img src="https://img.shields.io/badge/Linux_Silver-silver"/>
   <img src="https://img.shields.io/badge/MacOS_Silver-silver"/>
