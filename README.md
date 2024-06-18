@@ -10,8 +10,7 @@
 </div>
 
 <div align="center">
-<h2>⚡Skills </h2>
-  
+  <h2>⚡Skills </h2>
   <li>LUA Scripting | <img src="https://img.shields.io/badge/Emerald-diamond"/></li> 
   <li>VB.Net | <img src="https://img.shields.io/badge/Gold-yellow"/></li> 
   <li>MySQL | <img src="https://img.shields.io/badge/Gold-yellow"/></li>
@@ -23,6 +22,21 @@
   <img src="https://img.shields.io/badge/Windows_Master-orange"/>
   <img src="https://img.shields.io/badge/Linux_Silver-silver"/>
   <img src="https://img.shields.io/badge/MacOS_Silver-silver"/>
+  <br>
+
+  <div align="center">
+    <h5>Tools</h5>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-blue"/>
+    <img src="https://img.shields.io/badge/Visual_Studio-purple"/>
+    <img src="https://img.shields.io/badge/Notepad++-yellow"/>
+    <br>
+    <img src="https://img.shields.io/badge/GitHub_Desktop-purple"/>
+    <img src="https://img.shields.io/badge/GIT-black"/>
+    <img src="https://img.shields.io/badge/IIS-blue"/>
+    <img src="https://img.shields.io/badge/Xampp-orange"/>
+    <img src="https://img.shields.io/badge/HeidiSQL-green"/>
+    
+  </div>
 </div>
 
 <hr> 
