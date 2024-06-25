@@ -14,8 +14,8 @@
   <li>FiveM | <img src="https://img.shields.io/badge/Master-orange"/></li> 
   <li>RedM | <img src="https://img.shields.io/badge/Master-orange"/></li>
   <li>LUA | <img src="https://img.shields.io/badge/Master-orange"/></li> 
-  <li>HTML | <img src="https://img.shields.io/badge/Emerald-diamond"/></li> 
-  <li>CSS | <img src="https://img.shields.io/badge/Emerald-diamond"/> </li>
+  <li>HTML5 | <img src="https://img.shields.io/badge/Emerald-diamond"/></li> 
+  <li>CSS3 | <img src="https://img.shields.io/badge/Emerald-diamond"/> </li>
   <li>VB.Net | <img src="https://img.shields.io/badge/Gold-yellow"/></li> 
   <li>MySQL | <img src="https://img.shields.io/badge/Gold-yellow"/></li>
   <li>C# | <img src="https://img.shields.io/badge/Bronze-brown"/></li> 
