@@ -11,8 +11,8 @@
 
 <div align="center">
   <h2>⚡Skills </h2>
-  <li>FiveM | <img src="https://img.shields.io/badge/Master-orange"/></li> 
-  <li>RedM | <img src="https://img.shields.io/badge/Master-orange"/></li>
+  <li>FiveM Scripting | <img src="https://img.shields.io/badge/Master-orange"/></li> 
+  <li>RedM Scripting | <img src="https://img.shields.io/badge/Master-orange"/></li>
   <li>LUA | <img src="https://img.shields.io/badge/Master-orange"/></li> 
   <li>HTML5 | <img src="https://img.shields.io/badge/Emerald-diamond"/></li> 
   <li>CSS3 | <img src="https://img.shields.io/badge/Emerald-diamond"/> </li>
