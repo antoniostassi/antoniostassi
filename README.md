@@ -19,6 +19,7 @@
   <li>VB.Net | <img src="https://img.shields.io/badge/Gold-yellow"/></li> 
   <li>MySQL | <img src="https://img.shields.io/badge/Gold-yellow"/></li>
   <li>C# | <img src="https://img.shields.io/badge/Bronze-brown"/></li> 
+  <li>Javascript | <img src="https://img.shields.io/badge/Bronze-brown"/></li> 
   <hr>
   <li>Open Mind | <img src="https://img.shields.io/badge/Master-orange"/></li>
   <hr>
