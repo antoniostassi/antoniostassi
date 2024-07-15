@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ca.slack-edge.com/T91QPE3BP-U075NMUMSJ0-f4c4464d23d3-512" width="120"/>
+<!--   <img src="https://ca.slack-edge.com/T91QPE3BP-U075NMUMSJ0-f4c4464d23d3-512" width="120"/> -->
   <h1>Antonio Stassi - Developer</h1>
   <h2> 🌱 About Me </h2>
   <p>
