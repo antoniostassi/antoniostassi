@@ -17,7 +17,7 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- ❤ Contributing to Open Source.
+- ❤ I Contributed to Growing up the RedM Scripting Community from scratch.
 
 <h3>😄 Fun fact:</h3>
 - I started studying this type of stuffs completely in solo, going bad at school :C .
