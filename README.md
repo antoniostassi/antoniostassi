@@ -8,7 +8,6 @@
     I love Gaming and wasting my time on grinding video games.
   </p>
 </div>
-
 <div align="center">
   <h2>⚡Skills </h2>
   <li>FiveM Scripting | <img src="https://img.shields.io/badge/Master-orange"/></li> 
@@ -60,6 +59,7 @@
   <li>I'm actually a Boolean Careers Student</li>
 </ul>
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniostassi&show_icons=true&theme=radical)
 <!--
 **antoniostassi/antoniostassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
