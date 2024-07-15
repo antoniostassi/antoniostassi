@@ -4,16 +4,16 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀɴᴛᴏɴɪᴏ! 
 *Junior Full Stack Developer / Programmer*
-<br /> 
+
 
 <!--Start Intro-->               
-<p align="left">I am a Junior Full Stack Developer with a huge love for IT, LUA, Javascript, Gaming, Grinding and BBN4P (Big Brain Need for Problems) #
+<p align="left">I am a Junior Full Stack Developer with a huge love for IT, LUA, Javascript, <br>Gaming, Grinding, Pokémon and BBN4P (Big Brain Need for Problems) #
+  <img align="right" width=40%" src="https://i.ibb.co/NLQPMM0/cutechar.png">
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
