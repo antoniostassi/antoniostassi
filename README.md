@@ -26,6 +26,7 @@
 <ul>
   <li>An Unreal Engine Free Teacher</li>
   <li>1 Billion Euros</li>
+  <li>A Web Design Teacher</li>
 </ul>
 
 <h3>🔭 Actually working on:</h3>
