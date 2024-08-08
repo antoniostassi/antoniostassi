@@ -15,7 +15,7 @@
 <p align="left">I am a Junior Full Stack Developer with a huge love for IT, LUA, Javascript, <br>Gaming, Grinding, Pokémon and BBN4P (Big Brain Need for Problems) #
   <img align="right" width=40%" src="https://i.ibb.co/NLQPMM0/cutechar.png">
 
-- ✨ Student of life :)
+- ✨ Life student :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ❤ I Contributed to Growing up the RedM Scripting Community from scratch.
 
