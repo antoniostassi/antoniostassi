@@ -67,6 +67,8 @@
     <img src="https://img.shields.io/badge/HeidiSQL-green"/>
     <h5>Frameworks</h5>
     <img src="https://img.shields.io/badge/Bootstrap-purple"/>
+    <img src="https://img.shields.io/badge/VueJS-blue"/>
+    
     
   </div>
 </div>
