@@ -29,9 +29,9 @@
   <li>A Web Design Teacher</li>
 </ul>
 
-<h3>🔭 Actually working on:</h3>
+<h3>🔭 Currently working on:</h3>
 <ul>
-  <li>I'm actually a Boolean Careers Student</li>
+  <li>I'm currently a Boolean Careers Student</li>
 </ul>
   
 <div align="center">
