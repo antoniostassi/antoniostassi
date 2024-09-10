@@ -69,6 +69,7 @@
     <h5>Frameworks</h5>
     <img src="https://img.shields.io/badge/Bootstrap-purple"/>
     <img src="https://img.shields.io/badge/VueJS-blue"/>
+    <img src="https://img.shields.io/badge/Tailwind-blue"/>
     
     
     
