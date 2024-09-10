@@ -46,8 +46,6 @@
   <li>Javascript | <img src="https://img.shields.io/badge/Gold-yellow"/></li> 
   <li>C# | <img src="https://img.shields.io/badge/Bronze-brown"/></li> 
   <hr>
-  <li>Open Mind | <img src="https://img.shields.io/badge/Master-orange"/></li>
-  <hr>
   <img src="https://img.shields.io/badge/Windows_Master-orange"/>
   <img src="https://img.shields.io/badge/Linux_Silver-silver"/>
   <img src="https://img.shields.io/badge/MacOS_Silver-silver"/>
