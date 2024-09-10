@@ -61,6 +61,7 @@
     <img src="https://img.shields.io/badge/Notepad++-yellow"/>
     <br>
     <img src="https://img.shields.io/badge/GitHub_Desktop-purple"/>
+    <img src="https://img.shields.io/badge/Node.js-green"/>
     <img src="https://img.shields.io/badge/GIT-black"/>
     <img src="https://img.shields.io/badge/IIS-blue"/>
     <img src="https://img.shields.io/badge/Xampp-orange"/>
@@ -68,6 +69,7 @@
     <h5>Frameworks</h5>
     <img src="https://img.shields.io/badge/Bootstrap-purple"/>
     <img src="https://img.shields.io/badge/VueJS-blue"/>
+    <img src="https://img.shields.io/badge/Vite-yellow"/>
     
     
   </div>
