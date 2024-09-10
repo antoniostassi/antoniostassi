@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Javascript-diamond"/>
   <img src="https://img.shields.io/badge/HTML5-diamond"/>
   <img src="https://img.shields.io/badge/CSS3-diamond"/>
-  <img src="https://img.shields.io/badge/SASS-diamond"/>
+  <img src="https://img.shields.io/badge/Sass-purple"/>
     <br>
   <img src="https://img.shields.io/badge/VB.Net-yellow"/>
   <img src="https://img.shields.io/badge/MySQL-yellow"/>
