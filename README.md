@@ -36,15 +36,17 @@
   
 <div align="center">
   <h2>⚡Skills </h2>
-  <li>FiveM Scripting | <img src="https://img.shields.io/badge/Master-orange"/></li> 
-  <li>RedM Scripting | <img src="https://img.shields.io/badge/Master-orange"/></li>
-  <li>LUA | <img src="https://img.shields.io/badge/Master-orange"/></li> 
-  <li>HTML5 | <img src="https://img.shields.io/badge/Emerald-diamond"/></li> 
-  <li>CSS3 | <img src="https://img.shields.io/badge/Emerald-diamond"/> </li>
-  <li>VB.Net | <img src="https://img.shields.io/badge/Gold-yellow"/></li> 
-  <li>MySQL | <img src="https://img.shields.io/badge/Gold-yellow"/></li>
-  <li>Javascript | <img src="https://img.shields.io/badge/Gold-yellow"/></li> 
-  <li>C# | <img src="https://img.shields.io/badge/Bronze-brown"/></li> 
+  <img src="https://img.shields.io/badge/LUA-orange"/>
+  <img src="https://img.shields.io/badge/RedM-Scripting-orange"/>
+  <img src="https://img.shields.io/badge/FiveM-Scripting-orange"/>
+    <br>
+  <img src="https://img.shields.io/badge/Javascript-diamond"/>
+  <img src="https://img.shields.io/badge/HTML5-diamond"/>
+  <img src="https://img.shields.io/badge/CSS3-diamond"/>
+  <img src="https://img.shields.io/badge/SASS-diamond"/>
+    <br>
+  <img src="https://img.shields.io/badge/VB.Net-yellow"/>
+  <img src="https://img.shields.io/badge/MySQL-yellow"/>
   <hr>
   <img src="https://img.shields.io/badge/Windows_Master-orange"/>
   <img src="https://img.shields.io/badge/Linux_Silver-silver"/>
