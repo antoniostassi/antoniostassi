@@ -63,7 +63,6 @@
     <img src="https://img.shields.io/badge/GitHub_Desktop-purple"/>
     <img src="https://img.shields.io/badge/Node.js-green"/>
     <img src="https://img.shields.io/badge/GIT-black"/>
-    <img src="https://img.shields.io/badge/IIS-blue"/>
     <img src="https://img.shields.io/badge/Xampp-orange"/>
     <img src="https://img.shields.io/badge/HeidiSQL-green"/>
     <img src="https://img.shields.io/badge/Vite-yellow"/>
