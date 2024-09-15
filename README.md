@@ -31,7 +31,8 @@
 
 <h3>🔭 Currently working on:</h3>
 <ul>
-  <li>I'm currently a Boolean Careers Student</li>
+  <li>Boolean Careers Student</li>
+  <li>Studying Angular</li>
 </ul>
   
 <div align="center">
