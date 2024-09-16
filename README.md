@@ -14,25 +14,21 @@
 <!--Start Intro-->               
 <p align="left">I am a Junior Full Stack Developer with a huge love for IT, LUA, Javascript, <br>Gaming, Grinding and Pokémon #
   <img align="right" width=40%" src="https://i.ibb.co/NLQPMM0/cutechar.png">
-
-- ✨ Life student :)
+    
+<h3>🌱:</h3>
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- ❤ I Contributed to Growing up the RedM Scripting Community from scratch.
+- 🐎 Contribution to the growing up of the RedM Scripting Community from scratch.
+- 🤠 Creator of Spaghetti Western Roleplay, 1st roleplay server made in Italy on RedM platform.
+- 🚨 Developer and Owner of Naja Roleplay, GTA V FiveM server ( Lasted 6 months, average of 100 players online simultaneously )
+- 🧟 Interested on develop of LUA mods for games like Project Zomboid / Garry's Mod
+- 💻 Currently working on "TheRminal", web game open-source ( in my free-time ) 
 
 <h3>😄 Fun fact:</h3>
 - I started studying this type of stuffs completely in solo, going bad at school :C .
 
-<h3>🤔 I’m looking for </h3>
-<ul>
-  <li>An Unreal Engine Free Teacher</li>
-  <li>1 Billion Euros</li>
-  <li>A Web Design Teacher</li>
-</ul>
-
-<h3>🔭 Currently working on:</h3>
+<h3>🔭 Current Job:</h3>
 <ul>
   <li>Boolean Careers Student</li>
-  <li>Studying Angular</li>
 </ul>
   
 <div align="center">
