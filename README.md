@@ -15,13 +15,17 @@
 <p align="left">I am a Junior Full Stack Developer with a huge love for IT, LUA, Javascript, <br>Gaming, Grinding and Pokémon #
   <img align="right" width=40%" src="https://i.ibb.co/NLQPMM0/cutechar.png">
     
-<h3>🌱:</h3>
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🐎 Contribution to the growing up of the RedM Scripting Community from scratch.
-- 🤠 Creator of Spaghetti Western Roleplay, 1st roleplay server made in Italy on RedM platform.
-- 🚨 Developer and Owner of Naja Roleplay, GTA V FiveM server ( Lasted 6 months, average of 100 players online simultaneously )
-- 🧟 Interested on develop of LUA mods for games like Project Zomboid / Garry's Mod
-- 💻 Currently working on "TheRminal", web game open-source ( in my free-time ) 
+<h3>🌱</h3>
+<ul>
+    <li>📖 I’m currently learning many things, I believe that everyday is a learning opportunity.</li>
+    <li>🐎 Contribution to the growing up of the RedM Scripting Community from scratch.</li>
+    <li>🤠 Creator of Spaghetti Western Roleplay, 1st roleplay server made in Italy on RedM platform.</li>
+    <li>🚨 Developer and Owner of Naja Roleplay, GTA V FiveM server ( Lasted 6 months, average of 100 players online simultaneously )</li>
+    <li>🧟 Interested on develop of LUA mods for games like Project Zomboid / Garry's Mod</li>
+    <li>💻 Currently working on "TheRminal", web game open-source ( in my free-time ) </li>
+</ul>
+
+
 
 <h3>😄 Fun fact:</h3>
 - I started studying this type of stuffs completely in solo, going bad at school :C .
