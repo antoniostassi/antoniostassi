@@ -43,7 +43,8 @@
   <img src="https://img.shields.io/badge/Javascript-diamond"/>
   <img src="https://img.shields.io/badge/HTML5-diamond"/>
   <img src="https://img.shields.io/badge/CSS3-diamond"/>
-  <img src="https://img.shields.io/badge/Sass-purple"/>
+  <img src="https://img.shields.io/badge/SCSS-purple"/>
+  <img src="https://img.shields.io/badge/PHP-blue"/>
     <br>
   <img src="https://img.shields.io/badge/VB.Net-yellow"/>
   <img src="https://img.shields.io/badge/MySQL-yellow"/>
@@ -59,6 +60,7 @@
     <img src="https://img.shields.io/badge/Visual_Studio_Code-blue"/>
     <img src="https://img.shields.io/badge/Visual_Studio-purple"/>
     <img src="https://img.shields.io/badge/Notepad++-yellow"/>
+    <img src="https://img.shields.io/badge/Mamp-orange"/>
     <br>
     <img src="https://img.shields.io/badge/GitHub_Desktop-purple"/>
     <img src="https://img.shields.io/badge/Node.js-green"/>
