@@ -73,7 +73,7 @@
     <img src="https://img.shields.io/badge/Bootstrap-purple"/>
     <img src="https://img.shields.io/badge/VueJS-blue"/>
     <img src="https://img.shields.io/badge/Angular-purple"/>
-    
+    <img src="https://img.shields.io/badge/Laravel-red"/>
     
     
     
