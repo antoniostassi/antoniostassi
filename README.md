@@ -71,6 +71,7 @@
     <h5>Frameworks</h5>
     <img src="https://img.shields.io/badge/Tailwind-blue"/>
     <img src="https://img.shields.io/badge/Bootstrap-purple"/>
+    <br>
     <img src="https://img.shields.io/badge/VueJS-blue"/>
     <img src="https://img.shields.io/badge/Angular-purple"/>
     <img src="https://img.shields.io/badge/Laravel-red"/>
