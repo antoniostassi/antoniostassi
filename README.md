@@ -25,12 +25,9 @@
 </ul>
 
 
-
-<h3>😄 Fun fact:</h3>
-- I started studying this type of stuffs completely in solo, going bad at school :C .
-
 <h3>🔭 Current Job:</h3>
 <ul>
+  <li>BidiBro Junior Front-end Developer</li>
   <li>Boolean Careers Student</li>
 </ul>
   
