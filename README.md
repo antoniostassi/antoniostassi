@@ -90,7 +90,7 @@
 </p>
 <br />
 
-<!--Github stats Table--> 
+<!--Github stats Table-->
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
