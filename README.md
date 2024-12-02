@@ -12,7 +12,7 @@
 
 
 <!--Start Intro-->               
-<p align="left">I am a Junior Full Stack Developer with a huge love for <br>Gaming, Grinding, Pokémon and <strong>PASTA</strong> #
+<p align="left">I am a Junior Full Stack Developer with a huge love for <br>Gaming, Coding, Pokémon and <strong>Pasta!</strong> #
   <img align="right" width=40%" src="https://i.ibb.co/NLQPMM0/cutechar.png">
     
 <h3>🌱</h3>
