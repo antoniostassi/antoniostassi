@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/FiveM-Scripting-orange"/>
     <br>
   <img src="https://img.shields.io/badge/Javascript-diamond"/>
+  <img src="https://img.shields.io/badge/Typescript-diamond"/>
   <img src="https://img.shields.io/badge/HTML5-diamond"/>
   <img src="https://img.shields.io/badge/CSS3-diamond"/>
   <img src="https://img.shields.io/badge/SCSS-purple"/>
@@ -71,6 +72,8 @@
     <br>
     <img src="https://img.shields.io/badge/VueJS-blue"/>
     <img src="https://img.shields.io/badge/Angular-purple"/>
+    <img src="https://img.shields.io/badge/NestJS-purple"/>
+    <img src="https://img.shields.io/badge/ThreeJS-purple"/>
     <img src="https://img.shields.io/badge/Laravel-red"/>
     
     
