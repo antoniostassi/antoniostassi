@@ -27,8 +27,7 @@
 
 <h3>🔭 Current Job:</h3>
 <ul>
-  <li><a href="https://github.com/Bidibro">BidiBro</a> Junior Front-end Developer</li>
-  <li>Boolean Careers Graduated</li>
+  <li><a href="https://github.com/Bidibro">BidiBro</a> - Junior Frontend Developer</li>
 </ul>
   
 <div align="center">
