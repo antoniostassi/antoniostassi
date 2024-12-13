@@ -27,7 +27,7 @@
 
 <h3>🔭 Current Job:</h3>
 <ul>
-  <li><a href="https://github.com/Bidibro">BidiBro</a> - Junior Frontend Developer</li>
+  <li><a href="https://github.com/Bidibro">BidiBro</a> - Freelance Junior Frontend Developer</li>
 </ul>
   
 <div align="center">
