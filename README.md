@@ -22,6 +22,7 @@
     <li>🤠 Creator of Spaghetti Western Roleplay, 1st roleplay server made in Italy on RedM platform.</li>
     <li>🚨 Developer and Owner of Naja Roleplay, GTA V FiveM server ( Lasted 6 months, average of 100 players online simultaneously )</li>
     <li>🧟 Interested on develop of LUA mods for games like Project Zomboid / Garry's Mod</li>
+    <li>🌱 Passionate Full Stack Web Developing interested on building creative solutions</li>
 </ul>
 
 
