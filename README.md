@@ -28,7 +28,8 @@
 
 <h3>🔭 Current Job:</h3>
 <ul>
-  <li><a href="https://github.com/Bidibro">BidiBro</a> - Freelance Junior Frontend Developer</li>
+  <li><a href="https://bidibro.it">BidiBro</a> - Freelance Frontend Developer</li>
+  <li><a href="https://discord.gg/hogwartsrp">HogwartsRP</a> - Founder & Developer</li>
 </ul>
   
 <div align="center">
