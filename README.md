@@ -29,7 +29,7 @@
 <h3>🔭 Current Job:</h3>
 <ul>
   <li><a href="https://bidibro.it">BidiBro</a> - Freelance Frontend Developer</li>
-  <li><a href="https://discord.gg/hogwartsroleplay">HogwartsRP</a> - Founder & Developer</li>
+  <li><a href="https://discord.gg/hogwartsroleplay">HogwartsRP</a> - Founder & Developer ( C# / NestJS / Unreal Engine )</li>
 </ul>
   
 <div align="center">
