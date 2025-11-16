@@ -24,14 +24,6 @@
     <li>🧟 Interested on develop of LUA mods for games like Project Zomboid / Garry's Mod</li>
     <li>🌱 Passionate Full Stack Web Developing interested on building creative solutions</li>
 </ul>
-
-
-<h3>🔭 Current Job:</h3>
-<ul>
-  <li><a href="https://bidibro.it">BidiBro</a> - Freelance Frontend Developer</li>
-  <li><a href="https://originstrainers.com">OriginsTrainers</a> - Habbo FanSite for Pokémon Community</li>
-  <li><a href="https://discord.gg/hogwartsroleplay">HogwartsRP</a> - Founder & Developer ( C# / NestJS / Unreal Engine )</li>
-</ul>
   
 <div align="center">
   <h2>⚡Skills </h2>
